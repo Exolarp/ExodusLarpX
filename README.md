@@ -18,3 +18,7 @@ Step 3. Click F1 While the app is open to open the gui that will let you type th
 Step 4 Done.
 
          KEEP IN MIND, THIS IS STILL IN DEVELOPEMENT AND MAY BE DOWN AT THE MOMENT.
+<img width="984" height="648" alt="image" src="https://github.com/user-attachments/assets/641424cf-2392-436a-a955-e4c40a81754b" />
+
+<img width="992" height="603" alt="image" src="https://github.com/user-attachments/assets/7ffbaff8-93fc-46b3-a0fd-a9363aac0bbb" />
+
