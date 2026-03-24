@@ -13,9 +13,17 @@ This is a cracked version of exodus that shows fake crypto.
 
 
 Step 1. Download the ZIP file for Exolarp.
+
+
 Step 2. Open and run ExoLarp.exe
+
+
 Step 3. Click F1 While the app is open to open the gui that will let you type the amount of crypto you want in that sub category.
-Step 4 Done.
+
+
+Step 4 Finished.
+
+  IF YOU ARE HAVING TROUBLE. RUN THE EXE AS ADMIN.
 
          KEEP IN MIND, THIS IS STILL IN DEVELOPEMENT AND MAY BE DOWN AT THE MOMENT.
 <img width="984" height="648" alt="image" src="https://github.com/user-attachments/assets/641424cf-2392-436a-a955-e4c40a81754b" />
