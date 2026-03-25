@@ -4,7 +4,8 @@
                                                   \     \____ >    <(  <_> )  |__ / __ \_|  | \/\___ \     
                                                   \______  //__/\_ \\____/|____/(____  /|__|  /____  >    
                                                         \/       \/                 \/            \/
-<img width="1211" height="660" alt="image" src="https://github.com/user-attachments/assets/b2a89a2f-4ec8-423f-8763-c51ae372bcc8" />
+<img width="1211" height="660" alt="image" src="https://github.com/user-attachments/assets/6722977a-f5ce-4937-a9fc-64fe7eb79018" />
+
 
   -- THIS IS PURELY JUST FOR TESTING AND MESSING WITH FRIENDS --
 
