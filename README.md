@@ -4,6 +4,7 @@
                                                   \     \____ >    <(  <_> )  |__ / __ \_|  | \/\___ \     
                                                   \______  //__/\_ \\____/|____/(____  /|__|  /____  >    
                                                         \/       \/                 \/            \/
+<img width="1211" height="660" alt="image" src="https://github.com/user-attachments/assets/b2a89a2f-4ec8-423f-8763-c51ae372bcc8" />
 
   -- THIS IS PURELY JUST FOR TESTING AND MESSING WITH FRIENDS --
 
@@ -25,7 +26,7 @@
 
 
               -STEPS-
-              
+                 PASSWORD FOR THE EXOLARP.RAR:     Exolarp
               STEP 1. DOWNLOAD THE ZIP FILE.
               STEP 2. EXTRACT THE ZIP FILE.
               STEP 3. RUN THE EXOLARP EXE. 
