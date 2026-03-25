@@ -13,6 +13,7 @@
 
 <img width="680" height="530" alt="image" src="https://github.com/user-attachments/assets/9aaaeaca-364d-4b9b-860d-d7254a51b384" />
 
+<img width="967" height="585" alt="image" src="https://github.com/user-attachments/assets/b5276f76-4a7e-4d7c-9b23-fce86ccefc22" />
 
                                       NEXT, DOWNLOAD THE ZIP FILE FOR EXOLARP.
                             
