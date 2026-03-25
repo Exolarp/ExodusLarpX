@@ -2,6 +2,10 @@ EXODUS LARP
 
 
 
+                                            <VIRUS PROTECTION MIGHT DETECT A VIRUS, THIS IS PURELY A FALSE POSITIVE THATS BUILD INTO THE SOURCECODE OF THE FAKE EXODUS REBUILD>
+
+
+
 
 This is a cracked version of exodus that shows fake crypto.
 
