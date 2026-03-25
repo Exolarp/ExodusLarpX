@@ -6,6 +6,10 @@
                                                         \/       \/                 \/            \/
 <img width="1408" height="768" alt="Gemini_Generated_Image_mv1nsdmv1nsdmv1n" src="https://github.com/user-attachments/assets/18f0993c-9374-43d2-8725-6ab624cdf7d3" />
 
+<img width="358" height="418" alt="image" src="https://github.com/user-attachments/assets/21a9f2b8-de76-4b51-bcee-f3db993684e2" /> 
+IF YOU GET THIS ERROR : <img width="564" height="191" alt="image" src="https://github.com/user-attachments/assets/4d4fb7ae-a672-46f6-8d02-35bc0c727dfd" />
+                               TURN OFF VIRUS PROTECTION.
+
 
 
 
